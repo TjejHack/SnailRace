@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\mainControl.cs">
+    <Files>
+      <File FileName="Assets\scripts\mainControl.cs" Line="41" Column="3" />
+      <File FileName="Assets\scripts\CharCont.cs" Line="22" Column="2" />
+      <File FileName="Assets\scripts\obstacleCore.cs" Line="5" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
